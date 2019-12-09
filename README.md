@@ -16,7 +16,7 @@ Solar powered lantern set-up, based on an **automatic day/night P-channel MOSFET
 €  19,00 EREMIT 1S 10000 mAh Li-Po battery
 €  80,00 Adafruit (Voltaic) 6W solar panel
 €   1,00 Adafruit 3.5mm/1.1mm DC to 5.5/2.1mm DC adapter cable
-€   2,00 PMOS NDP6020P
+€   2,00 ON Semiconductor NDP6020P MOSFET
 €  19,00 Adafruit USB/DC/Solar Li-Ion/Li-Po charger or
 €   3,00 MCP73871 USB/Solar Li-Ion/Li-Po charger
 €   1,00 Fasttech Nanjg 7135*3 1.05A no-mode CC-PSU
