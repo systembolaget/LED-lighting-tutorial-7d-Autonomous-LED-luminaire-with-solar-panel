@@ -1,6 +1,6 @@
-# LED lighting tutorial - Autonomous LED luminaire with solar panel
+# LED lighting tutorial - Cordless solar powered LED light 7h @ 357lm with 3000K @ CRI 90
 
-Solar powered lantern set-up, based on an **automatic day/night P-channel MOSFET switch**
+Get fully off the grid with solar power. How to drive a high-CRI SMD LED with an automatic day/night P-channel MOSFET switch, solar panel and battery storage for 7 hours at full brightness
 
 ### Result
 
