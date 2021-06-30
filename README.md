@@ -2,9 +2,11 @@
 
 Get fully off the grid with solar power. How to drive a high-CRI SMD LED with an automatic day/night P-channel MOSFET switch, solar panel and battery storage for 7 hours at full brightness
 
-### Result
+### Setup
 
-![](Assets/7d%20result.jpg)
+You can click the image to play the associated YouTube video
+
+[![Alt text](Assets/7d%20result.jpg)](https://www.youtube.com/watch?v=vwix8LJGiQE)
 
 ### Schematic
 
